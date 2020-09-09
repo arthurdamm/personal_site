@@ -235,8 +235,6 @@ input, select, textarea {
 		text-align: right;
 	}
 
-	.icons 
-
 /* Loader */
 
 	@-moz-keyframes spinner-show {
@@ -2609,7 +2607,8 @@ input, select, textarea {
 
 /* Icons */
 
-	span.fab {
+	span.fab,
+	span.fas {
 		font-size: 2.8em;
 		padding: 0.5em;
 	}
